@@ -1,6 +1,7 @@
-# juejin 默认主题
-
-主题列表：https://github.com/xitu/juejin-markdown-themes
+# scrolls-light
+  掘金自定义主题
+  
+## 预览
 
 ## License
 
