@@ -232,7 +232,7 @@ $font-primary-color: #cca152;
         &::before {
           border:none;
           @include checkboxBefore();
-          background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABBklEQVQ4T62Tu04CQRSG/38SYqFvs7MxodJOOzYBqZaF3tpWrK2tuZRswtCR0FgT1kIeAp7AQhL3mCUMbmRZrlOdOef8X2bOhUidSad0jxjXad+GrTB2g8HQ+mmNqO31QFRyxTYoCHXdPCTXJSDqeBEAZy/xX9KHDozmpFW6oeL7geJlusRymwCaVHw+EvByEIAiVQHLtlYSy/4Akg2n1m9HXa8CQW/1hSwAx4DMAHjrogse3bp5S4u3AnRg+Nn1LxfyNSKkSODJCczrf3HOCzC6KPzUvhfqSgS+2xg0s8R5gCQ2heKd9vvzbeJdAEAQQiG0Bctqs+3CaYN08iifZZks5Jh1/gWLtpnVTO2GBQAAAABJRU5ErkJggg==)
+          background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAFo9M/3AAAAAXNSR0IArs4c6QAAAYhJREFUOBFjYACC0/MDGsDEiyvr/zOCeUwMJxn/A8HZRUEMYBFGJsZ6kFoQYALiAyAGCgDpA+sFijKeWRj4H1kWpIWBW1SDQcm+BCzOAiK/vr7BcO/gDbAAI4hE1waWgRBnmWCGIwkyKFjnwow0BhsJk9QLncvw5dV1oPE9MCEGmBWrgCKhcFEowyR+PSNYwemFAZ4M/xjMkRWYJm5oAPFB/joDpI1BHHQANgGPDxj+//vfCA4IdJ3GcevgQnAFhlHLwYIgSVA0wABcwY3tFQzokiBFGIEP0wmigW5wZAK5FFkQib0a6NUDcEmgb7AGFpIGZOZqoMFhIAFQknEAJpn9yLLEssFOBCp2IFaDkl0xg6C8FbJyB3gowUS5RdQYBORQYpVB1iwVHIIMwJh///AYTCmYRklNIBFmNi4GeYt0BhnjeIa3dw8wSBlEgDUhxw2yCRgGfHp2geHiqiSwUwUVrFAiFVkjjA1LrjgTHEwhFvosMCZM4NEIUoAtWWNoBGZ70/gN22HiAD2uhAzsYNBZAAAAAElFTkSuQmCC)
             0 0 no-repeat;
           background-size: 100%;
         }
